@@ -1,1 +1,4 @@
-# IIV-2016.github.io
+# IIV Volunteers Blog
+## License
+
+MIT. See [LICENSE.MD](https://github.com/bencentra/centrarium/blob/master/LICENSE.md).
